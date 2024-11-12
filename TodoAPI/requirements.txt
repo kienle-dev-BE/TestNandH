@@ -1,0 +1,6 @@
+Django>=4.0,<5.0
+djangorestframework>=3.13.1
+djangorestframework-simplejwt>=5.2.2
+djangorestframework-authtoken>=1.1.1
+pytest>=7.1.2
+pytest-django>=4.5.2
